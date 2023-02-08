@@ -1,0 +1,39 @@
+
+body{
+    background-color: white;
+    vertical-align: middle;
+}
+
+button.btnsupp{
+    background-color: white;
+    border-radius: 15%;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.1;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out,
+    border-color .15s ease-in-out,
+    box-shadow .15s ease-in-out;
+}
+
+p.footer{
+    padding-top: 12px;
+    margin-bottom: 0rem;
+}
+
+footer{
+    margin-bottom: 0rem;
+    position: absolute;
+    bottom:0rem;
+}
+
+body p{
+    vertical-align: middle;
+}
+
